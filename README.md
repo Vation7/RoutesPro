@@ -152,7 +152,7 @@ This is a RESTful API for a social network web application where users can share
 - **JavaScript**: Programming language
 
 ## Video
-[Watch the video](https://www.youtube.com/watch?v=example)
+[Watch the video](https://vimeo.com/1009747030?share=copy)
 
 
 ## License
