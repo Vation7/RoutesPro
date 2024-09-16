@@ -26,7 +26,7 @@ This is a RESTful API for a social network web application where users can share
    ```
 3.	Make sure MongoDB is installed and running on your system. Start MongoDB if it’s not running:
     ```bash
-   mongod
+    mongod
     ```
 4.	(Optional) Seed the database with sample data:
     ```bash
